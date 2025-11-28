@@ -2,7 +2,7 @@
 cache/
 out/
 bin/
-
+.github/workflows/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*/31337/
